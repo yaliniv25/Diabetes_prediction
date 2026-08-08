@@ -1,4 +1,4 @@
-Project Overview:
+#Project Overview:
 
 This project uses a Neural Network (Artificial Neural Network) to predict a person's diabetes status based on various health and lifestyle factors.
 
@@ -10,7 +10,7 @@ NumPy
 Scikit-learn
 Jupyter Notebook
 
-Dataset:
+#Dataset:
 
 The dataset contains around 120 rows and 13 columns.
 
@@ -29,7 +29,7 @@ Smoking
 Diet
 Pregnancies
 
-Target:
+#Target:
 
 DiabetesStatus
 
@@ -39,7 +39,7 @@ Normal
 Prediabetes
 Diabetes
 
-How to Run:
+#How to Run:
 1. Clone the repository
 git clone (https://github.com/yaliniv25/Diabetes_prediction.git)
 2. Install the required libraries
@@ -56,7 +56,7 @@ using Jupyter Notebook or VS Code.
 
 Execute the notebook cells in order to perform preprocessing, train the neural network, and evaluate the model.
 
-MODEL ARCHITECTURE:
+#MODEL ARCHITECTURE:
 
 The neural network consists of 3 hidden layers.
 
@@ -81,12 +81,12 @@ Optimizer: Adam
 Loss function: Sparse Categorical Crossentropy
 Output classes: 3
 
-Result:
+#Result:
 
 Test Accuracy: 75%
 Test Loss: 0.7575
 
-Future Improvements:
+#Future Improvements:
 Streamlit dashboard
 Hyperparameter tuning
 Model comparison
