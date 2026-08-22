@@ -12,8 +12,6 @@ Jupyter Notebook
 
 #Dataset:
 
-The dataset contains around 120 rows and 13 columns.
-
 Features:
 Age
 Gender
